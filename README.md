@@ -1,2 +1,2 @@
 # nodejs_mysql
-node_jsmysql 생활코딩 공부
+nodejs_mysql 생활코딩 공부
